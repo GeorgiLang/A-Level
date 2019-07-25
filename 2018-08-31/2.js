@@ -6,13 +6,7 @@
 function extraPow(arguments, n) {
     var arr = [];
     var x;
-    if (n < 0){
-
-        x = -n;
-    }else{
-
-        x = n;
-    };
+    n < 0 ? x = -n : x = n;
     if (typeof arguments !== "object") {
         
         var z = pow(arguments);

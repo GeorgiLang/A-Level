@@ -1,0 +1,21 @@
+{
+  "name": "2018-09-18",
+  "authors": [
+    "Georgi <langovets@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
